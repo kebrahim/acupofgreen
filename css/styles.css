@@ -59,7 +59,7 @@ body {
    padding-top: 56px;
    padding-bottom: 45px;
    width: 650px;
-   overflow: auto;
+   overflow: hidden;
 }
 
 #homeSmallText {

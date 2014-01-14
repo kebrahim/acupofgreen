@@ -10,7 +10,8 @@
 <meta name="Abstract" content="Matthew Greenberg of Acupuncture of Greenlawn, located in Greenlawn, NY, provides acupuncture and acupressure services to the Greenlawn and Long Island communities." />
 <meta name="Keywords" content="acupuncture,acupressure,greenlawn,huntington,acupuncture of greenlawn,new york,long island,LI,NY,11740,11743" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
-<link type="text/css" rel="stylesheet" href="/css/styles.css" />
+<link type="text/css" rel="stylesheet" href="css/styles.css" />
+<link rel="shortcut icon" href="images/logo.gif" />
 <script src="includes/msdFunctions.js" language="javascript" type="text/javascript"></script>
 <script type="text/javascript">
 
