@@ -1,0 +1,224 @@
+body {
+   background: #BF3B3C;
+   margin: 0px;
+   padding: 0px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   width: 750px;
+}
+
+#pageContainer {
+   background: #FFFFDD;
+   border: 1px solid #000000;
+   width: 750px;
+   margin-top: 25px;
+   margin-bottom: 25px;
+}
+
+#navOuter {
+   border-top-style: solid;
+   border-top-width: 2px;
+   border-top-color: #3C141C;
+   border-bottom-style: solid;
+   border-bottom-width: 2px;
+   border-bottom-color: #3C141C;
+   padding-top: 2px;
+   padding-bottom: 2px;
+   margin-top: 2px;
+   margin-bottom: 2px;
+   width: 750px;
+   background: #FFFFDD;
+   text-align: left;
+}
+
+#navInner {
+   width: 728px;
+   background: #BF3B3C;
+   padding-left: 22px;
+}
+
+#navInner img {
+   border: 0px;
+}
+
+#pageContent {
+   text-align: left;
+   background-image:url('/images/bkg_YinYang.jpg');
+   background-position: center center;
+   background-repeat: no-repeat;
+   position: relative;
+   width: 750px;
+}
+
+#homeContent {
+   font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
+   font-size: 12px;
+   color: #BF3B3C;
+   padding-left: 55px;
+   padding-top: 56px;
+   padding-bottom: 45px;
+   width: 650px;
+   overflow: auto;
+}
+
+#homeSmallText {
+   font-size: 10px;
+}
+
+#logo {
+   float: left;
+   padding-top: 5px;
+}
+
+#homeText {
+   width: 450px;
+   padding-top: 0px;
+   float: right;
+   height: 168px;
+}
+
+#aboutContent {
+   font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
+   font-size: 12px;
+   padding-left: 55px;
+   padding-top: 71px;
+   padding-bottom: 15px;
+   color: #BF3B3C;
+   width: 650px;
+   overflow: auto;
+}
+
+#portrait {
+   padding-top: 15px;
+   float: left;
+}
+
+#aboutText {
+   width: 450px;
+   padding-top: 0px;
+   float: right;
+   height: 213px;
+}
+
+#treatContent {
+   font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
+   font-size: 12px;
+   padding-left: 40px;
+   padding-top: 4px;
+   color: #BF3B3C;
+   width: 670px;
+}
+
+#treatContent li,
+#treatContent ul {
+   list-style-type: none;
+   padding: 0px;
+   margin: 0px;
+}
+
+#FAQContent {
+   font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
+   font-size: 12px;
+   padding-left: 40px;
+   padding-top: 16px;
+   color: #BF3B3C;
+   width: 670px;
+}
+
+#FAQContent a {
+   display:block;
+   color: #000000;
+}
+
+#FAQContent a:active,
+#FAQContent a:hover {
+   color: #BF3B3C;
+}
+
+#FAQContent h1 {
+   color: #000000;
+   font-size: 12px;
+   font-weight:normal;
+   padding: 0px;
+   margin: 0px;
+}
+
+#FAQContent p {
+   padding-top:0px;
+   margin-top:0px;
+}
+
+
+#FAQContent h1 a {
+   display: inline;
+   color: #BF3B3C;
+}
+
+#FAQContent h1 a:active,
+#FAQContent h1 a:hover {
+   display: inline;
+   color: #000000;
+}
+
+#linksContent {
+   font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
+   font-size: 12px;
+   padding-left: 40px;
+   padding-top: 12px;
+   color: #BF3B3C;
+   width: 670px;
+   height: 287px;
+}
+
+#linksContent a {
+   display: block;
+   line-height: 200%;
+}
+
+#linksContent p a {
+   display: inline;
+   line-height: 100%;
+}
+
+
+#contactContent {
+   font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
+   font-size: 12px;
+   padding-left: 40px;
+   padding-top: 16px;
+   color: #BF3B3C;
+   width: 670px;
+   height: 283px;
+}
+
+
+#footer {
+   font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
+   font-size: 12px;
+   color: #BF3B3C;
+   text-align: center;
+   padding-top: 12px;
+   padding-bottom: 2px;
+}
+
+#footer p {
+   padding: 0px;
+   padding-bottom: 8px;
+   margin: 0px;
+}
+
+
+#footer #copyright {
+   font-size: 10px;
+}
+
+a {
+   color: #BF3B3C;
+   /*text-decoration: none;*/
+}
+
+a:hover,
+a:active {
+   color: #000000;
+}
