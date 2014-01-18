@@ -55,9 +55,7 @@ body {
    font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
    font-size: 12px;
    color: #BF3B3C;
-   padding-left: 55px;
-   padding-top: 56px;
-   padding-bottom: 45px;
+   padding: 30px 0 30px 55px;
    width: 650px;
    overflow: hidden;
 }
@@ -75,15 +73,12 @@ body {
    width: 450px;
    padding-top: 0px;
    float: right;
-   height: 168px;
 }
 
 #aboutContent {
    font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
    font-size: 12px;
-   padding-left: 55px;
-   padding-top: 71px;
-   padding-bottom: 15px;
+   padding: 30px 0 30px 55px;
    color: #BF3B3C;
    width: 650px;
    overflow: auto;
@@ -98,14 +93,12 @@ body {
    width: 450px;
    padding-top: 0px;
    float: right;
-   height: 213px;
 }
 
 #treatContent {
    font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
    font-size: 12px;
-   padding-left: 40px;
-   padding-top: 4px;
+   padding: 30px 0 30px 55px;
    color: #BF3B3C;
    width: 670px;
 }
@@ -120,8 +113,7 @@ body {
 #FAQContent {
    font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
    font-size: 12px;
-   padding-left: 40px;
-   padding-top: 16px;
+   padding: 30px 0 30px 40px;
    color: #BF3B3C;
    width: 670px;
 }
@@ -164,11 +156,9 @@ body {
 #linksContent {
    font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
    font-size: 12px;
-   padding-left: 40px;
-   padding-top: 12px;
+   padding: 30px 0 30px 55px;
    color: #BF3B3C;
    width: 670px;
-   height: 287px;
 }
 
 #linksContent a {
@@ -181,17 +171,13 @@ body {
    line-height: 100%;
 }
 
-
 #contactContent {
    font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
    font-size: 12px;
-   padding-left: 40px;
-   padding-top: 16px;
+   padding: 30px 0 30px 55px;
    color: #BF3B3C;
    width: 670px;
-   height: 283px;
 }
-
 
 #footer {
    font-family: Verdana, Helvetica, Arial, Geneva, sans-serif;
